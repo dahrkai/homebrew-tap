@@ -10,8 +10,8 @@
 class Dahrk < Formula
   desc "Dahrk edge client: run a self-managed node that executes Dahrk workflow stages"
   homepage "https://dahrk.ai"
-  url "https://registry.npmjs.org/dahrk-node/-/dahrk-node-0.4.11.tgz"
-  sha256 "4984f984a08d4005319e8bc98aa70f3ff309dd639b7a0e88e7e8be384a25306f"
+  url "https://registry.npmjs.org/dahrk-node/-/dahrk-node-0.4.12.tgz"
+  sha256 "896956a6f5cdbb3f609738ed9f25aa549fe9ae06ab8b69d661210f36fae9c0e8"
   license "Apache-2.0"
 
   depends_on "node"
